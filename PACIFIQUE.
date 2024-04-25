@@ -6,20 +6,20 @@
   <body>
     <div>
       <div>
-        <foractio="reistration.php" method="post">
+        <foractio="registration.php" method="post">
           <div class="container">
             <h1>reistration</h1>
             <p>fill up the form with correct values.</p>
-            <lable></lable> for="firstname"><b>firstname</b></rable>
+            <lable></lable> for="firstname"><b>firstname</b></rable><br>
             <input type="text" name="firstname" required>
 
-            <lable for="last name"><b>last name</b></lable>
+            <lable for="last name"><b>last name</b></lable><br>
             <input type"text" name="lastname" required>
             <lable for"email"><b>Email address</b></lable>
             <input type="email" name="email" required>
-            <lable for="phonenumber"><b>phone number</b></lable>
+            <lable for="phonenumber"><b>phone number</b></lable><br>
             <input type="text" name="phonenumber" required>
-            <lable for="password"><b>password</b></lable>
+            <lable for="password"><b>password</b></lable><br>
             <input type="password" name="password" required>
             <input type="submit" name="create" value="sign up">
         
