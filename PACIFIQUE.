@@ -8,19 +8,18 @@
       <div>
         <foractio="registration.php" method="post">
           <div class="container">
-            <h1>reistration</h1>
+            <h1> COUSES REISTRATION FORM</h1>
             <p>fill up the form with correct values.</p>
-            <lable></lable> for="firstname"><b>firstname</b></rable><br>
-            <input type="text" name="firstname" required>
-
-            <lable for="last name"><b>last name</b></lable><br>
-            <input type"text" name="lastname" required>
+            <lable></lable> for="firstname"><b>firstname</b></lable>
+            <input type="text" name="firstname" required><br>
+            <lable for="last name"><b>last name</b></lable>
+            <input type"text" name="lastname" required><br>
             <lable for"email"><b>Email address</b></lable>
-            <input type="email" name="email" required>
-            <lable for="phonenumber"><b>phone number</b></lable><br>
-            <input type="text" name="phonenumber" required>
-            <lable for="password"><b>password</b></lable><br>
-            <input type="password" name="password" required>
+            <input type="email" name="email" required><br>
+            <lable for="phonenumber"><b>phone number</b></lable>
+            <input type="text" name="phonenumber" required><br>
+            <lable for="password"><b>password</b></lable>
+            <input type="password" name="password" required><br>
             <input type="submit" name="create" value="sign up">
         
     </div>
